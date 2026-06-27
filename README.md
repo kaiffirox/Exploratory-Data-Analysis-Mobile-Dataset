@@ -138,52 +138,14 @@ Mobile-Phone-EDA/
 └── .gitignore
 ```
 
----
-
-# 🚀 How to Run
-
-### Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Mobile-Phone-EDA.git
-```
-
-### Navigate to the project folder
-
-```bash
-cd Mobile-Phone-EDA
-```
-
-### Install required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-### Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```
-Mobile_EDA.ipynb
-```
 
 ---
 
 # 📷 Sample Visualizations
 
-You can include screenshots of:
-
 - Price Distribution
-- Brand-wise Smartphone Count
-- Correlation Heatmap
-- RAM vs Price
-- Storage Distribution
-- Rating Analysis
+- Top 10 Most Expensive Phones
+- Price VS Rating
 
 *(Store screenshots inside the `images/` folder and embed them here.)*
 
