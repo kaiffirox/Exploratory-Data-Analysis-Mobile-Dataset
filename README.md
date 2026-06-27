@@ -147,15 +147,15 @@ Mobile-Phone-EDA/
 - Top 10 Most Expensive Phones
 - Price VS Rating
 
-*(Store screenshots inside the `images/` folder and embed them here.)*
+<img width="1283" height="721" alt="Price Distribution" src="https://github.com/user-attachments/assets/f8328bcd-44c6-4ccc-8a05-ea133f2fb031" />
 
-Example:
+<img width="1711" height="699" alt="Top 10 Most Expensive Phones" src="https://github.com/user-attachments/assets/c7dd649b-5211-4e29-81d1-bdae453948e2" />
 
-```markdown
-## Price Distribution
+<img width="1300" height="857" alt="Price VS Rating analysis" src="https://github.com/user-attachments/assets/e94102c8-f3ec-4535-8536-5bc3675f9e7f" />
 
-![Price Distribution](images/price_distribution.png)
-```
+
+
+
 
 ---
 
